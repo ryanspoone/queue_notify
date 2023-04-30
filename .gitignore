@@ -1,0 +1,26 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+incorrectly_classified/*
+train/queue_pop/*
+train/not_queue_pop/*
+val/queue_pop/*
+val/not_queue_pop/*
+screenshots/*
+*.h5
+
+# Python cache files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook cache files
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/

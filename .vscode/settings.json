@@ -1,0 +1,11 @@
+{
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+      "--config=.flake8"
+    ],
+    "python.formatting.blackArgs": [
+      "--config=pyproject.toml"
+    ],
+    "editor.formatOnSave": true,
+    "python.linting.lintOnSave": true
+  }
